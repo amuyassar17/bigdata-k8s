@@ -1,0 +1,15 @@
+apiVersion: v1
+appVersion: "2.6.0"
+description: HokStack Helm chart to Hadoop on Kubernetes
+name: hokstack
+version: 1.0.0
+icon: https://i.imgur.com/OpZGcib.png
+home: https://hokstack.io
+type: application
+maintainers:
+  - name: Rohit Sharma
+    email: rohitrsh@gmail.com
+  - name: Shubhomoy Biswas
+    email: shubhomoy.biswas95@gmail.com
+sources:
+  - https://github.com/hokstack/hok-helm
